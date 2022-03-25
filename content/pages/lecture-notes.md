@@ -30,7 +30,7 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction: Singular Simplices and Chains (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec1)
+[Introduction: Singular Simplices and Chains (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +39,7 @@ LECTURE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec2)
+[Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +48,7 @@ LECTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Categories, Functors, Natural Transformations (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec3)
+[Categories, Functors, Natural Transformations (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec3)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ LECTURE NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Categorical Language (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec4)
+[Categorical Language (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ LECTURE NOTES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homotopy, Star-shaped Regions (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec5)
+[Homotopy, Star-shaped Regions (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ LECTURE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homotopy Invariance of Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec6)
+[Homotopy Invariance of Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ LECTURE NOTES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homology Cross Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec7)
+[Homology Cross Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec7)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ LECTURE NOTES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Relative Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec8)
+[Relative Homology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec8)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ LECTURE NOTES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Homology Long Exact Sequence (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec9)
+[The Homology Long Exact Sequence (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec9)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ LECTURE NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Excision and Applications (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec10)
+[Excision and Applications (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +120,7 @@ LECTURE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Eilenberg Steenrod Axioms and the Locality Principle (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec11)
+[The Eilenberg Steenrod Axioms and the Locality Principle (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ LECTURE NOTES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Subdivision (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec12)
+[Subdivision (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ LECTURE NOTES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Proof of the Locality Principle (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec13)
+[Proof of the Locality Principle (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ LECTURE NOTES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[CW-Complexes (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec14)
+[CW-Complexes (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ LECTURE NOTES
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[CW-Complexes II (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec15)
+[CW-Complexes II (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ LECTURE NOTES
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homology of CW-Complexes (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec16)
+[Homology of CW-Complexes (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ LECTURE NOTES
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Real Projective Space (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec17)
+[Real Projective Space (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ LECTURE NOTES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Euler Characteristic and Homology Approximation (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec18)
+[Euler Characteristic and Homology Approximation (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ LECTURE NOTES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Coefficients (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec19)
+[Coefficients (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec19)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ LECTURE NOTES
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tensor Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec20)
+[Tensor Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec20)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +216,7 @@ LECTURE NOTES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tensor and Tor (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec21)
+[Tensor and Tor (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ LECTURE NOTES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Fundamental Theorem of Homological Algebra (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec22)
+[The Fundamental Theorem of Homological Algebra (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec22)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ LECTURE NOTES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hom and Lim (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec23)
+[Hom and Lim (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +243,7 @@ LECTURE NOTES
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Universal Coefficient Theorem (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec24)
+[Universal Coefficient Theorem (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec24)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +252,7 @@ LECTURE NOTES
 25
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Künneth and Eilenberg-Zilber (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec25)
+[Künneth and Eilenberg-Zilber (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec25)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +267,7 @@ LECTURE NOTES
 26
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Coproducts, Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec26)
+[Coproducts, Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec26)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +276,7 @@ LECTURE NOTES
 27
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ext and UCT (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec27)
+[Ext and UCT (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec27)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +285,7 @@ LECTURE NOTES
 28
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Products in Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec28)
+[Products in Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec28)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +294,7 @@ LECTURE NOTES
 29
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cup Product (cont.) (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec29)
+[Cup Product (cont.) (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec29)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +303,7 @@ LECTURE NOTES
 30
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Surfaces and Nondegenerate Symmetric Bilinear Forms (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec30)
+[Surfaces and Nondegenerate Symmetric Bilinear Forms (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec30)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +312,7 @@ LECTURE NOTES
 31
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Local Coefficients and Orientations (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec31)
+[Local Coefficients and Orientations (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec31)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +321,7 @@ LECTURE NOTES
 32
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Proof of the Orientation Theorem (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec32)
+[Proof of the Orientation Theorem (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec32)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,7 +330,7 @@ LECTURE NOTES
 33
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Plethora of Products (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec33)
+[A Plethora of Products (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec33)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -339,7 +339,7 @@ LECTURE NOTES
 34
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cap Product and “Cech” Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec34)
+[Cap Product and “Cech” Cohomology (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec34)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +348,7 @@ LECTURE NOTES
 35
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cech Cohomology as a Cohomology Theory (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec35)
+[Cech Cohomology as a Cohomology Theory (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec35)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -357,7 +357,7 @@ LECTURE NOTES
 36
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Fully Relative Cap Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec36)
+[The Fully Relative Cap Product (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec36)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,7 +366,7 @@ LECTURE NOTES
 37
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Poincaré Duality (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec37)
+[Poincaré Duality (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec37)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,7 +375,7 @@ LECTURE NOTES
 38
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Applications (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec38)
+[Applications (PDF)]({{< baseurl >}}/resources/mit18_905f16_lec38)
 {{< tdclose >}}
 
 {{< trclose >}}
